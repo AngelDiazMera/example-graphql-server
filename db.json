@@ -1,0 +1,27 @@
+{
+  "person": [
+    {
+      "name": "John Doe",
+      "phone": "555-555-5555",
+      "email": "johndoe@example.com",
+      "city": "Anytown",
+      "street": "123 Main St",
+      "id": "3d3d51cc-6d5c-4d10-8d32-2b193d485819"
+    },
+    {
+      "name": "Jane Doe",
+      "phone": "555-555-5555",
+      "email": "janedoe@example.com",
+      "city": "Anytown",
+      "street": "123 Main St",
+      "id": "3d3d51cc-6d5c-4d10-8d32-2b193d485820"
+    },
+    {
+      "name": "John Smith",
+      "email": "johnsmith",
+      "city": "Anytown",
+      "street": "123 Main St",
+      "id": "3d3d51cc-6d5c-4d10-8d32-2b193d485821"
+    }
+  ]
+}
